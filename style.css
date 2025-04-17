@@ -1,0 +1,173 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+     background-color: #d87093;
+     color: black;
+     text-align: center;
+     font-weight:bold;
+     font-size: 20px;
+    box-shadow: 0px 5px 5px black;
+}
+li{
+    display: inline-block;
+    padding: 20px;
+    }
+body{
+     background-color:lightskyblue;
+}
+/* card 1 */
+
+.main>.box{
+    display: inline-block;
+}
+.d1{ 
+    height: 400px;
+    width: 300px;
+    background-color:white;
+    margin-left: 70px;
+    margin-top: 60px;
+    margin-bottom: 80px;
+    border: 3px solid yellow ;
+    box-shadow: 6px 6px 6px black;
+    border-radius: 5px 10px 5px 10px;
+}
+img{
+    width:200px;
+    height:200px;
+    margin: 20px 20px 20px 40px;
+    border:3px solid red;
+    border-radius: 5px;
+}
+h3{
+    text-align: center;
+}
+.row{
+     text-align:center;
+}
+.row::first-letter{
+     color:red;
+    font-size: 30px;
+}
+button{
+     text-decoration: none;
+     color: red;
+     background-color: yellow;
+     margin-left: 90px;
+     margin-top: 5px;
+     border-radius: 5px;
+     padding: 3px;
+     font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+button:hover{               
+      background-color: aqua;
+      color: black;
+      border: 2px solid blue;
+      padding: 6px; 
+}
+
+      /* card 2 */
+
+.d2{
+    height: 400px;
+    width: 300px;
+    background-color:white;
+    margin-left: 70px;
+    margin-top:60px;
+    margin-bottom: 80px;
+    border: 3px solid yellow ;
+    box-shadow: 6px 6px 6px black;
+    border-radius: 5px 10px 5px 10px;
+}
+img{
+    width:200px;
+    height:200px;
+    margin: 20px 20px 20px 40px;
+    border:3px solid red;
+    border-radius: 5px;
+}
+
+h3{
+   text-align: center;
+}
+.row{
+    text-align:center;
+}
+.row::first-letter{
+    color:red;
+    font-size: 30px;
+}
+button{
+    text-decoration: none;
+    color: red;
+    background-color: yellow;
+    margin-left: 90px;
+    margin-top: 5px;
+    border-radius: 5px;
+    padding: 3px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+button:hover{
+    background-color: aqua;
+    color: black;
+    border: 2px solid blue;
+    padding: 6px;   
+}
+            /*card 3  */
+
+.d3{
+    height: 400px;
+    width: 300px;
+    background-color:white;
+    margin-left: 70px;
+    margin-top: 60px;
+    margin-bottom: 80px;
+    border: 3px solid yellow ;
+    box-shadow: 6px 6px 6px black;
+    border-radius: 5px 10px 5px 10px;
+}
+img{
+    width:200px;
+    height:200px;
+    margin: 20px 20px 20px 40px;
+    border:3px solid red;
+    border-radius: 5px;
+}
+h3{
+    text-align: center;
+}
+.row{
+    text-align:center;
+}
+.row::first-letter{
+    color:red;
+    font-size: 30px;
+}
+button{
+    text-decoration: none;
+    color: red;
+    background-color: yellow;
+    margin-left: 90px;
+    margin-top: 5px;
+    border-radius: 5px;
+    padding: 3px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+button:hover{
+     background-color: aqua;
+     color: black
+     bborder: 2px solid blue;
+     padding: 6px;
+}
+
